@@ -1,6 +1,6 @@
 [
-  { "ticker": "ZBS", "id": "ZBS"},
   { "ticker": "EUR", "id": "E2u76pQV7v7SLYQ6Wi2kdRy3x4hRTGtn2JaJ6fzLLyph"},
   { "ticker": "BTC", "id": "7NcRQcktVEJNa3pPdMrJJ9M8tDVYV6jrAWzPaoJb9r7R"},
-  { "ticker": "ETH", "id": "J2QmZd9rEJSsTW1RrwyzjycoFWjbEGjuRA6moa2ASYvj"}
+  { "ticker": "ETH", "id": "J2QmZd9rEJSsTW1RrwyzjycoFWjbEGjuRA6moa2ASYvj"},
+  { "ticker": "ZBS", "id": "ZBS"}
 ]
