@@ -1,7 +1,6 @@
 [
-  { "ticker": "WAVES", "id": "WAVES"},
-  { "ticker": "BTC", "id": "Fmg13HEHJHuZYbtJq8Da8wifJENq8uBxDuWoP9pVe2Qe"},
-  { "ticker": "USD", "id": "HyFJ3rrq5m7FxdkWtQXkZrDat1F7LjVVGfpSkUuEXQHj"},
-  { "ticker": "EUR", "id": "2xnE3EdpqXtFgCP156qt1AbyjpqdZ5jGjWo3CwTawcux"},
-  { "ticker": "CNY", "id": "6pmDivReTLikwYqQtJTv6dTcE59knriaodB3AK8T9cF8"}
+  { "ticker": "ZBS", "id": "ZBS"},
+  { "ticker": "EUR", "id": "E2u76pQV7v7SLYQ6Wi2kdRy3x4hRTGtn2JaJ6fzLLyph"},
+  { "ticker": "BTC", "id": "7NcRQcktVEJNa3pPdMrJJ9M8tDVYV6jrAWzPaoJb9r7R"},
+  { "ticker": "ETH", "id": "J2QmZd9rEJSsTW1RrwyzjycoFWjbEGjuRA6moa2ASYvj"}
 ]

@@ -1,17 +1,17 @@
 {
-  "name": "@waves/assets-pairs-order",
+  "name": "@0bsnetwork/assets-pairs-order",
   "version": "4.0.0",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wavesplatform/assets-pairs-order"
+    "url": "https://github.com/0bsnetwork/assets-pairs-order"
   },
   "scripts": {
     "build:browser": "rollup -c rollup.config.js",
     "test": "jest",
-    "prepublish": "yarn test && yarn build:browser"
+    "prepublish": "yarn build:browser"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",

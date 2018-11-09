@@ -1,4 +1,4 @@
-const WAVES_ID_TYPE = null;
+const ZBS_ID_TYPE = null;
 
 const compareUint8Arrays = (arr1, arr2) => {
   //  true    - arr1 bigger
@@ -8,7 +8,7 @@ const compareUint8Arrays = (arr1, arr2) => {
 const isPair = o =>
   Array.isArray(o) &&
   o.length === 2 &&
-  o.every(id => typeof id === 'string' || id === WAVES_ID_TYPE);
+  o.every(id => typeof id === 'string' || id === ZBS_ID_TYPE);
 const isEmptyArray = a => Array.isArray(a) && a.length === 0;
 
 module.exports = {

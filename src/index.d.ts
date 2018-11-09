@@ -1,6 +1,6 @@
 // Type definitions for assets-pair-order
 // Definitions by: ishmidt
-declare module '@waves/assets-pairs-order' {
+declare module '@0bsnetwork/assets-pairs-order' {
   type TPair = [string, string];
   export type TOrderPair = (a: string, b: string) => TPair;
 
